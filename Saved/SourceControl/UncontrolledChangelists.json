@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Work/PersonalProjects/UnrealProjects/RPG_Roeste/Content/Blueprints/BPC_PlayerStats.uasset",
+				"D:/Work/PersonalProjects/UnrealProjects/RPG_Roeste/Content/UI/WB_HUD.uasset",
+				"D:/Work/PersonalProjects/UnrealProjects/RPG_Roeste/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Work/PersonalProjects/UnrealProjects/RPG_Roeste/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
 				"D:/Work/PersonalProjects/UnrealProjects/ROESTE_RPG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Work/PersonalProjects/UnrealProjects/ROESTE_RPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
 				"D:/Work/PersonalProjects/UnrealProjects/ROESTE_RPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
